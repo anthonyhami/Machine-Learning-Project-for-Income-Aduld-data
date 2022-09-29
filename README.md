@@ -16,3 +16,11 @@ What have been done:
 
 5.Predicted unlabeld Data with the final Models
 
+For this Project Python 3.8 has been used:
+   - Pandas
+   - Numpy
+   - Sklearn
+   - Seaborn
+   - Matplotlib
+   
+
