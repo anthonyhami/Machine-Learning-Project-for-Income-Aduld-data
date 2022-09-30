@@ -5,16 +5,16 @@ A polling institute wants to be able to estimate an individual’s income from h
 
 What have been done:
 
-1.  Exploratory data analysis for data set
-2.  Data Preprocessing
-3.  Feature Selection
-4.  Trained/ Hyper Parameter Tuning and Validation for the 4 ML  Models (for 4 different Data sets)
+1. Exploratory data analysis for data set
+2. Data Preprocessing
+3. Feature Selection
+4. Trained/ Hyper Parameter Tuning and Validation for the 4 ML  Models (for 4 different Data sets)
     - Random Forest
     -  Decision Tree
     -  SVM
     -  Logistic Regression
 
-5.Predicted unlabeld Data with the final Models
+5. Predicted unlabeld Data with the final Models
 
 For this Project Python 3.8 has been used:
    - Pandas
